@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vgr:home|Door43 (vgr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vgr|d43-vgr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vgr/archive/master.zip|d43-vgr.zip]]
+
+**Recent Changes**
+{{changes>ns = vgr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vgr|Ethnologue data]]
+
